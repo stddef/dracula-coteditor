@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found in [INSTRUCTIONS.MD](INSTRUCTIONS.MD).
+All instructions can be found in [INSTRUCTIONS.md](INSTRUCTIONS.md).
 
 ## Team
 
