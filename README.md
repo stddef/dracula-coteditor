@@ -2,11 +2,11 @@
 
 > A dark theme for [CotEditor](https://coteditor.com).
 
-![Screenshot](coteditor.png)
+![Screenshot](assets/coteditor.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/CotEditor](https://draculatheme.com/CotEditor).
+All instructions can be found in [INSTRUCTIONS.MD](INSTRUCTIONS.MD).
 
 ## Team
 
